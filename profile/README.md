@@ -19,7 +19,7 @@ We're experienced in various types of Web Development projects and trusted by ma
 
 
 ## 🚀 About Me
-You can click [link](https://solu.co.id/)
+You can click [link](https://solu.co.id/#about)
 
 
 ## Tech Stack
