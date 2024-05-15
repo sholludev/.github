@@ -13,6 +13,8 @@ We're experienced in various types of Web Development projects and trusted by ma
 
  - [Mobsen](https://mobsen.id/)
  - [Securelog](https://solu.co.id/securelog.html)
+ - [Serelo]
+ - [Amna]
 ## Authors
 
 - [@devops-SOLU](https://www.github.com/devops-SOLU)
