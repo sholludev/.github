@@ -1,5 +1,5 @@
 
-![Logo](https://solu.co.id/storage/public/company-logo/01JFRJ8PSWVAX1HSET189RCR1P.jpeg)
+![Logo](FAVICON_6.png)
 
 
 # SOLU FILANTROPI TEKNOLOGI
