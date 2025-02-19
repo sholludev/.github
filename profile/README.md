@@ -1,5 +1,5 @@
 
-![Logo](images/FAVICON_6.png)
+![Logo](images/Group_33084.png)
 
 
 # [SOLU FILANTROPI TEKNOLOGI](https://solu.co.id/)
@@ -12,13 +12,13 @@ We're experienced in various types of Web Development projects and trusted by ma
 
 ## 🔭 Our Products
 
- - ![logo](images/Mobsen.png)[Mobsen](https://mobsen.id/)
- - ![logo](images/Serelo.png)[Serelo Smart Office](https://solu.co.id/service/product/serelo)
- - ![logo](images/Lifetrace.png)[Lifetrace](https://solu.co.id/service/product/lifetrace)
- - ![logo](images/Slock.png)[Serelock](https://solu.co.id/service/product/serelock)
- - ![logo](images/Amna.png)[Amna](https://solu.co.id/service/product/amna)
- - ![logo](images/pion.png)[PiON](https://solu.co.id/service/product/pion)
- - ![logo](images/Dms.png)[Delivery Management System](https://solu.co.id/service/product/delivery-management-system)
+ - [Mobsen](https://mobsen.id/)
+ - [Serelo Smart Office](https://solu.co.id/service/product/serelo)
+ - [Lifetrace](https://solu.co.id/service/product/lifetrace)
+ - [Serelock](https://solu.co.id/service/product/serelock)
+ - [Amna](https://solu.co.id/service/product/amna)
+ - [PiON](https://solu.co.id/service/product/pion)
+ - [Delivery Management System](https://solu.co.id/service/product/delivery-management-system)
 
 ## 🤝 Our Services
  - [Education](https://solu.co.id/service/education)
