@@ -4,7 +4,7 @@
 
 # [SOLU FILANTROPI TEKNOLOGI](https://solu.co.id/)
 
-Hello 👋, We are Solu filantropi Teknologi.
+Hello 👋, We are Solu Filantropi Teknologi.
 
 We consist of young generation who have high integrity to build a better Indonesia through Information and Technology.
 
