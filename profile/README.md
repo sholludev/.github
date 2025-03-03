@@ -1,7 +1,3 @@
-
-![Logo](images/Group_33084.png)
-
-
 # [SOLU FILANTROPI TEKNOLOGI](https://solu.co.id/)
 
 Hello 👋, We are Solu Filantropi Teknologi.
