@@ -114,4 +114,4 @@ Apapun kebutuhan digital Anda — dari ide awal hingga implementasi — kami sia
 ## ⚡ Closing Statement
 
 > **SOLU Filantropi Teknologi**  
-> *Empowering Digital Transformation for a Better Indonesia*
+> *Better IT Experience, Limitless Potential*
